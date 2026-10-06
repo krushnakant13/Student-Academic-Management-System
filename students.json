@@ -1,0 +1,63 @@
+[
+    {
+        "roll_no": 101,
+        "registration_no": "SU2026001",
+        "name": "Aarav Sharma",
+        "department": "AIML",
+        "dob": "15-08-2007",
+        "subjects": [
+            "Python",
+            "Mathematics",
+            "Physics"
+        ],
+        "marks": [
+            88,
+            79,
+            91
+        ],
+        "attendance": [
+            94,
+            89,
+            96
+        ],
+        "contact": {
+            "email": "aarav@example.com",
+            "phone": "9876500001",
+            "address": "Kopargaon"
+        },
+        "clubs": [
+            "Coding Club",
+            "AI Club"
+        ]
+    },
+    {
+        "roll_no": 102,
+        "registration_no": "SU2026002",
+        "name": "Ananya Patil",
+        "department": "CSE",
+        "dob": "22-03-2007",
+        "subjects": [
+            "Python",
+            "Mathematics",
+            "Physics"
+        ],
+        "marks": [
+            92,
+            86,
+            89
+        ],
+        "attendance": [
+            96,
+            91,
+            93
+        ],
+        "contact": {
+            "email": "ananya@example.com",
+            "phone": "9876500002",
+            "address": "Shirdi"
+        },
+        "clubs": [
+            "Coding Club"
+        ]
+    }
+]
